@@ -25,4 +25,5 @@ Since all the training materials will be uploaded all participant should have a 
 
 ## 5. Download Git
 ## For windows: [Download here](https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.1/Git-2.51.0-64-bit.exe)
-## For Mac: First install homebrew if you don't already have it, then: $ brew install git
+## For Mac: First install homebrew if you don't already have it, then: 
+### $ brew install git
