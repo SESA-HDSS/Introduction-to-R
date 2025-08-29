@@ -1,7 +1,5 @@
  # Introduction to R
 ## Welcome to the SESA Workshop — Introduction to R
-## Aim of the workshop
-
 
 ## Before the workshop: please download and install the following softwares to your local machine.
 
