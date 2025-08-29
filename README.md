@@ -16,7 +16,7 @@
 ### For Mac: [Download here](https://download1.rstudio.org/electron/macos/RStudio-2025.05.1-513.dmg)
 
 ## 3. Create a GitHub account
-Since all the training materials will be uploaded in a GitHub repository, all participant should have a GitHub account to access the course materials and code.
+#### Since all the training materials will be uploaded to a GitHub repository, all participants should have a GitHub account to access the course materials, including the code.
 #### Go to the GitHub sign-up page and [create a free account](https://github.com/signup)
 
 ## 4. Download and install GitHub desktop
