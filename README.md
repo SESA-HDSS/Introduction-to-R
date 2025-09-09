@@ -21,7 +21,7 @@ The workshop aims to equip HDSS coordinators, researchers and data staff with fo
 ### For Mac: [Download here](https://download1.rstudio.org/electron/macos/RStudio-2025.05.1-513.dmg)
 
 ## 3. Create a GitHub account
-#### Since all the training materials will be uploaded to a GitHub repository, all participants should have a GitHub account to access the course materials, including the code.
+#### Since all the training materials will be uploaded to a GitHub repository, all participants should have a GitHub account to access the course materials, including the dataset for practicals.
 ### Go to the GitHub sign-up page and [Create a GitHub account](https://github.com/signup)
 
 ## 4. Download and install GitHub desktop
