@@ -1,5 +1,10 @@
  # Introduction to R
 ## Welcome to the SESA Workshop — Introduction to R
+### Workshop Overview
+“R” is a powerful, open-source statistical software, widely used for managing, analysing, and visualising complex data. Its flexibility makes it particularly valuable for longitudinal data analysis, such as that generated through Health and Demographic Surveillance Systems (HDSS). One challenge, however, is that R operates primarily through code, which can be an initial barrier for users without programming experience. To support accessibility, we will use RStudio—an integrated development environment (IDE) for R that organises and streamlines access to R’s features. While RStudio still involves coding, its intuitive interface, script editor, and data viewer make it easier for HDSS staff to manage, analyse, and visualise large-scale, long-term datasets.
+
+### Aims of the Workshop
+The workshop aims to equip HDSS coordinators, researchers and data staff with foundational skills in RStudio, with a focus on managing and analysing longitudinal HDSS data. 
 
 ## Before the workshop: please download and install the following softwares to your local machine.
 
