@@ -27,8 +27,3 @@ The workshop aims to equip HDSS coordinators, researchers and data staff with fo
 ## 4. Download and install GitHub desktop
 ### For windows: [Download here](https://central.github.com/deployments/desktop/desktop/latest/win32)
 ### For Mac: [Download here](https://central.github.com/deployments/desktop/desktop/latest/darwin)
-
-## 5. Download Git
-## For windows: [Download here](https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.1/Git-2.51.0-64-bit.exe)
-## For Mac: First install homebrew if you don't already have it, then: 
-### $ brew install git
